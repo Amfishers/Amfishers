@@ -2,13 +2,11 @@
 
 ### Hello 👋
 
-> Keep a heart of love for programming..
+> focus on every step
 
-🇨🇳 China Shenzhen・🕹Web developer
+🇨🇳 China Shenzhen・🕹Front-End Web Developer
 
-https://www.Amfishers.com
-
-
+http://www.amfishers.com/
 
 <!--
 **Amfishers/Amfishers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
