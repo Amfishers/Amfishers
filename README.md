@@ -1,24 +1,18 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Amfishers&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hello 👋
+<div align="center">
 
-> focus on every step
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Never+has+been+%2C+and+it+never+will+be.)](https://git.io/typing-svg)
+# Hi, I’m @Fisher 👋
 
-🇨🇳 China Shenzhen・🕹Front-End Web Developer
+</div>
 
-http://www.amfishers.com/
+This is my personal website https://amfishers.com, in which i record some thinking, reflection and learning.
 
-<!--
-**Amfishers/Amfishers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇨🇳 China Shenzhen・🕹Front-End Developer
+- 💼 Develop using `Vue2/3` `Nuxt.js` `React` `Node`.
+- 📧 Email: 378437235@qq.com
+- > focus on every step
 
-Here are some ideas to get you started:
+###  🎈 🏃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunarianss&hide=javascript,html,vue&layout=compact&langs_count=5)](https://github.com/Ryan-eng-del/github-readme-stats&hide=javascript,html,vue)
